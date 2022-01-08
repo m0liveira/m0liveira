@@ -8,8 +8,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-m0liveira-333?style=flat&logo=github&logoColor=white&link=https://github.com/m0liveira)](https://github.com/m0liveira) [![GitLab Badge](https://img.shields.io/badge/-Mateus_Oliveira_[@0liveira]-c14438?color=F4F4F5&style=flat&logo=gitlab&logoColor=black&link=https://gitlab.com/0liveira)](https://gitlab.com/0liveira) [![Codepen Badge](https://img.shields.io/badge/-Mateus_Oliveira_[@0liveira]-272930?style=flat&logo=codepen&logoColor=white&link=https://codepen.io/0liveira)](https://codepen.io/0liveira) ![Figma Badge](https://img.shields.io/badge/-Mateus_Oliveira-191970?style=flat&logo=figma&logoColor=white)
 
-<details> 
-<summary> About me </summary>
+<!-- <details>
+<summary> About me </summary> -->
 
 ## 🧍 I'm a Student, Web Developer and Web Designer!!
 
@@ -23,10 +23,10 @@
 
 - ⚡ Fun fact: I love to make music and play videogames
 
-</details>
+<!-- </details> -->
 
-<details> 
-<summary> Languages and Tools details </summary>
+<!-- <details>
+<summary> Languages and Tools details </summary> -->
 
 ## 💻 Languages and Tools:
 
@@ -36,10 +36,10 @@
 
 <br  />
 
-</details>
+<!-- </details> -->
 
-<details> 
-<summary> Github details </summary>
+<!-- <details>
+<summary> Github details </summary> -->
 
 ## 📈 GitHub Stats
 
@@ -62,6 +62,6 @@
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
-</details>
+<!-- </details> -->
 
 [website]: https://mateusoliveira.pt/
