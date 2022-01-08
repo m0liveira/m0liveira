@@ -37,7 +37,7 @@
 
 [![m0liveira GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=m0liveira)](https://github.com/m0liveira)
 
-| ![m0liveira GitHub stats](https://github-readme-stats.vercel.app/api?username=m0liveira&count_private=true&show_icons=true&theme=radical&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0liveira&theme=radical&langs_count=10)](https://github.com/m0liveira) |
+| ![m0liveira GitHub stats](https://github-readme-stats.vercel.app/api?username=m0liveira&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0liveira&theme=radical&langs_count=10&hide_border=true)](https://github.com/m0liveira) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
@@ -46,9 +46,9 @@
 
 ## 📌 Pinned repositories
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=m0liveira&theme=radical)](https://github.com/m0liveira/m0liveira)             | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=weatherApp&theme=radical)](https://github.com/m0liveira/weatherApp) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=m0liveira&theme=radical&hide_border=true)](https://github.com/m0liveira/m0liveira)             | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=weatherApp&theme=radical&hide_border=true)](https://github.com/m0liveira/weatherApp) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=CryptoSimulator&theme=radical)](https://github.com/m0liveira/CryptoSimulator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=QuizzTest&theme=radical)](https://github.com/m0liveira/QuizzTest)   |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=CryptoSimulator&theme=radical&hide_border=true)](https://github.com/m0liveira/CryptoSimulator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=QuizzTest&theme=radical&hide_border=true)](https://github.com/m0liveira/QuizzTest)   |
 
 ### 🐍 Watch my contribution graph being eaten by a Snake!
 
