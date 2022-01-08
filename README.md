@@ -8,6 +8,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-m0liveira-333?style=flat&logo=github&logoColor=white&link=https://github.com/m0liveira)](https://github.com/m0liveira) [![GitLab Badge](https://img.shields.io/badge/-Mateus_Oliveira_[@0liveira]-c14438?color=F4F4F5&style=flat&logo=gitlab&logoColor=black&link=https://gitlab.com/0liveira)](https://gitlab.com/0liveira) [![Codepen Badge](https://img.shields.io/badge/-Mateus_Oliveira_[@0liveira]-272930?style=flat&logo=codepen&logoColor=white&link=https://codepen.io/0liveira)](https://codepen.io/0liveira) ![Figma Badge](https://img.shields.io/badge/-Mateus_Oliveira-191970?style=flat&logo=figma&logoColor=white)
 
+<details> 
+<summary> About me </summary>
+
 ## 🧍 I'm a Student, Web Developer and Web Designer!!
 
 - 🔭 I'm currently working on a weather extension: <!-- [Become A VS Code SuperHero!][course]! -->
@@ -19,12 +22,13 @@
 - 🥅 2022 Goals: Work more on side projects
 
 - ⚡ Fun fact: I love to make music and play videogames
-  ***
+
+</details>
 
 <details> 
 <summary> Languages and Tools details </summary>
 
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 | <img align="left" alt="Visual Studio Code" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> |    <img align="left" alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>    |      <img align="left" alt="CSS3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> | <img align="left" alt="JavaScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> | <img align="left" alt="TypeScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -32,14 +36,12 @@
 
 <br  />
 
----
-
 </details>
 
 <details> 
 <summary> Github details </summary>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 [![m0liveira GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=m0liveira)](https://github.com/m0liveira)
 
