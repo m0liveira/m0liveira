@@ -53,3 +53,9 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=CryptoSimulator&theme=radical)](https://github.com/m0liveira/CryptoSimulator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=QuizzTest&theme=radical)](https://github.com/m0liveira/QuizzTest)   |
 
 </details>
+
+### Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+
+[website]: https://mateusoliveira.pt/
