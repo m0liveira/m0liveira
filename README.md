@@ -33,8 +33,8 @@
 
 ![m0liveira GitHub stats](https://github-readme-stats.vercel.app/api?username=m0liveira&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m0liveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0liveira&theme=tokyonight&langs_count=10&hide_border=true)](https://github.com/m0liveira) 
-
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m0liveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0liveira&theme=tokyonight&langs_count=10&hide_border=true)](https://github.com/m0liveira) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 📌 Pinned repositories
 
