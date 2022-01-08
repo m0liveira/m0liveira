@@ -37,18 +37,18 @@
 
 [![m0liveira GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=m0liveira)](https://github.com/m0liveira)
 
-| ![m0liveira GitHub stats](https://github-readme-stats.vercel.app/api?username=m0liveira&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0liveira&theme=radical&langs_count=10&hide_border=true)](https://github.com/m0liveira) |
+| ![m0liveira GitHub stats](https://github-readme-stats.vercel.app/api?username=m0liveira&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0liveira&theme=tokyonight&langs_count=10&hide_border=true)](https://github.com/m0liveira) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m0liveira&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m0liveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 📌 Pinned repositories
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=m0liveira&theme=radical&hide_border=true)](https://github.com/m0liveira/m0liveira)             | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=weatherApp&theme=radical&hide_border=true)](https://github.com/m0liveira/weatherApp) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=m0liveira&theme=tokyonight&hide_border=true)](https://github.com/m0liveira/m0liveira)             | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=weatherApp&theme=tokyonight&hide_border=true)](https://github.com/m0liveira/weatherApp) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=CryptoSimulator&theme=radical&hide_border=true)](https://github.com/m0liveira/CryptoSimulator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=QuizzTest&theme=radical&hide_border=true)](https://github.com/m0liveira/QuizzTest)   |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=CryptoSimulator&theme=tokyonight&hide_border=true)](https://github.com/m0liveira/CryptoSimulator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=QuizzTest&theme=tokyonight&hide_border=true)](https://github.com/m0liveira/QuizzTest)   |
 
 ### 🐍 Watch my contribution graph being eaten by a Snake!
 
