@@ -8,7 +8,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-m0liveira-333?style=flat&logo=github&logoColor=white&link=https://github.com/m0liveira)](https://github.com/m0liveira) [![GitLab Badge](https://img.shields.io/badge/-Mateus_Oliveira_[@0liveira]-c14438?color=F4F4F5&style=flat&logo=gitlab&logoColor=black&link=https://gitlab.com/0liveira)](https://gitlab.com/0liveira) [![Codepen Badge](https://img.shields.io/badge/-Mateus_Oliveira_[@0liveira]-272930?style=flat&logo=codepen&logoColor=white&link=https://codepen.io/0liveira)](https://codepen.io/0liveira) ![Figma Badge](https://img.shields.io/badge/-Mateus_Oliveira-191970?style=flat&logo=figma&logoColor=white)
 
-## 🎓 I'm a Student, Web Developer and Web Designer!!
+## 🧍 I'm a Student, Web Developer and Web Designer!!
 
 - 🔭 I'm currently working on a weather extension: <!-- [Become A VS Code SuperHero!][course]! -->
 
