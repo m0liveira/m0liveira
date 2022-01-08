@@ -46,6 +46,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m0liveira&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+## 📌 Pinned repositories
 
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=m0liveira&theme=radical)](https://github.com/m0liveira/m0liveira)             | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=weatherApp&theme=radical)](https://github.com/m0liveira/weatherApp) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=CryptoSimulator&theme=radical)](https://github.com/m0liveira/CryptoSimulator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=QuizzTest&theme=radical)](https://github.com/m0liveira/QuizzTest)   |
 
 </details>
