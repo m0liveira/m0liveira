@@ -42,9 +42,5 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=CryptoSimulator&theme=tokyonight&hide_border=true)](https://github.com/m0liveira/CryptoSimulator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=QuizzTest&theme=tokyonight&hide_border=true)](https://github.com/m0liveira/QuizzTest)   |
 
-### 🐍 Watch my contribution graph being eaten by a Snake!
-
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
-
 [website]: https://mateusoliveira.pt/
 [weatherExt]: https://github.com/m0liveira/weatherApp
