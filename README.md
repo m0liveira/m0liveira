@@ -11,13 +11,13 @@
 
 ## 🧍 I'm a Student, Web Developer and Web Designer!!
 
-- 🔭 I'm currently working on a weather extension: [Weather Extension Repo][weatherExt]!
+- 🔭 I'm currently working on a API to power my new side project called Cultured: [Working repository][repository]!
 
 - 🌱 I’m currently learning everything 🤣
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
-- 🥅 2022 Goals: Work more on side projects
+- 🥅 2023 Goals: Work more on side projects
 
 - ⚡ Fun fact: I love to make music and play videogames
 
@@ -43,4 +43,4 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=CryptoSimulator&theme=tokyonight&hide_border=true)](https://github.com/m0liveira/CryptoSimulator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0liveira&repo=QuizzTest&theme=tokyonight&hide_border=true)](https://github.com/m0liveira/QuizzTest)   |
 
 [website]: https://mateusoliveira.pt/
-[weatherExt]: https://github.com/m0liveira/weatherApp
+[repository]: https://github.com/m0liveira/Cultured-API
